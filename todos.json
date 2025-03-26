@@ -1,20 +1,20 @@
 [
 {
 "Title": "Learn Go",
-"Completed": false,
+"Completed": true,
 "CreatedAt": "2025-03-26T19:39:57.9925091+05:30",
-"CompletedAt": null
+"CompletedAt": "2025-03-26T20:06:50.8941929+05:30"
 },
 {
 "Title": "Create a Todo App",
-"Completed": false,
+"Completed": true,
 "CreatedAt": "2025-03-26T19:39:57.9925091+05:30",
-"CompletedAt": null
+"CompletedAt": "2025-03-26T20:06:54.2735036+05:30"
 },
 {
-"Title": "Learn React",
+"Title": "Upload this thing in Github",
 "Completed": false,
-"CreatedAt": "2025-03-26T19:39:57.9925091+05:30",
+"CreatedAt": "2025-03-26T20:06:11.2433621+05:30",
 "CompletedAt": null
 }
 ]
